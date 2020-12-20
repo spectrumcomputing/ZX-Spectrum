@@ -1,3 +1,6 @@
+
+![Image of Yaktocat](https://spectrumcomputing.github.com/ZX-Machine-Code/Registers.jpg)
+
 #### Immediate Addressing (Black)
 
 LD R,N (A, B, C, D, E, H, L)
