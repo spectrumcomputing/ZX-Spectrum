@@ -1,5 +1,5 @@
 
-![Image of Yaktocat](https://spectrumcomputing.github.com/ZX-Machine-Code/Registers.jpg)
+![Image of Yaktocat](https://github.com/spectrumcomputing/ZX-Machine-Code/blob/main/Registers.jpg)
 
 #### Immediate Addressing (Black)
 
