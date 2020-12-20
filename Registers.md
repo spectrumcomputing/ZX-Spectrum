@@ -40,6 +40,8 @@ LD (HL), A, B, C, D, E, H, L
 LD (BC),A 
 LD (DE),A 
 
+LD (HL),N - Not in Graphic Above
+
 #### Extended Addressing (Pastel Pink)
 
 The general form is LD A,(NN) or LD (NN),A - Only A Regsister! 
