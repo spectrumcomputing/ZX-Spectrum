@@ -1,7 +1,7 @@
 
-Immediate Addressing (Black)
-Register Addressing  (Orange)
-Register Indirect Addressing (Teal)
+Immediate Addressing (Black)  
+Register Addressing  (Orange)  
+Register Indirect Addressing (Teal)  
 Extended Addressing (Pastel Pink)
 
 ![Image of Yaktocat](https://github.com/spectrumcomputing/ZX-Machine-Code/blob/main/Registers.jpg)
