@@ -1,7 +1,7 @@
 ### Using Registers
 
 
-#### Immediate Addressing (Black)
+#### Immediate Addressing
 ```
 LD A,N
 LD B,N
@@ -16,7 +16,7 @@ LD DE,NN
 LD HL,NN
 ```
 
-#### Register Addressing  (Orange)
+#### Register Addressing
 ```
 LD R,R
 ```
@@ -26,7 +26,7 @@ Note: There are no 16 Bit Instructions like LD HL,DE. Instead use:
 LD H,D
 LD L,E
 ```
-#### Register Indirect Addressing (Turqoise)
+#### Register Indirect Addressing
 
 
 ```
