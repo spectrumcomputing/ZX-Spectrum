@@ -1,8 +1,8 @@
 
 Immediate Addressing (Black)  
-Register Addressing  (Purple)  
-Register Indirect Addressing (Turquoise)  
-Extended Addressing (Pastel Pink)
+Register Addressing  (Orange)  
+Register Indirect Addressing (Purple)  
+Extended Addressing (Turqoise)
 
 DOWN & ACROSS
 
