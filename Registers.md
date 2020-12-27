@@ -6,7 +6,7 @@ Extended Addressing (Pastel Pink)
 
 DOWN & ACROSS
 
-![Image of Yaktocat](https://github.com/spectrumcomputing/ZX-Machine-Code/blob/main/Registers.jpg)
+![Image of Load Instructions](https://github.com/spectrumcomputing/ZX-Machine-Code/blob/main/Registers.png)
 
 #### Immediate Addressing (Black)
 ```
