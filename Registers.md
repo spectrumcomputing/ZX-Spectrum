@@ -9,12 +9,12 @@ DOWN & ACROSS
 ![Image of Yaktocat](https://github.com/spectrumcomputing/ZX-Machine-Code/blob/main/Registers.jpg)
 
 #### Immediate Addressing (Black)
-
-  LD R,N ;(A, B, C, D, E, H, L)
-  LD BC,NN
-  LD DE,NN
-  LD HL,NN
-
+```
+LD R,N ;(A, B, C, D, E, H, L)
+LD BC,NN
+LD DE,NN
+LD HL,NN
+```
 LD HL,16384 - Load the Register Pair HL with 16384
 
 #### Register Addressing  (Orange)
