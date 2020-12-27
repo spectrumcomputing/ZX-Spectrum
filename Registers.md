@@ -1,12 +1,5 @@
+### Using Registers
 
-Immediate Addressing (Black)  
-Register Addressing  (Orange)  
-Register Indirect Addressing (Turqoise)  
-Extended Addressing (Purple)
-
-DOWN & ACROSS
-
-![Image of Load Instructions](https://github.com/spectrumcomputing/ZX-Machine-Code/blob/main/Registers.PNG)
 
 #### Immediate Addressing (Black)
 ```
@@ -65,7 +58,7 @@ LD (DE),A
 ```
 LD (HL),N
 ```
-#### Extended Addressing (Purple)
+#### Extended Addressing
 ```
 LD A,(NN)
 LD (NN),A
