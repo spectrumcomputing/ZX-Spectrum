@@ -10,19 +10,28 @@ DOWN & ACROSS
 
 #### Immediate Addressing (Black)
 ```
-LD R,N ;(A, B, C, D, E, H, L)
+LD A,N
+LD B,N
+LD C,N
+LD D,N
+LD E,N
+LD H,N
+LD L,N
 LD BC,NN
 LD DE,NN
 LD HL,NN
 ```
-LD HL,16384 - Load the Register Pair HL with 16384
 
 #### Register Addressing  (Orange)
-
-The general form is LD R,R (A, B, C, D, E, H, L)
-
-Note: There are no 16 Bit Instructions like LD HL,DE. Instead use LD H,D and LD L,E
-
+```
+LD R,R
+```
+Works with registers A, B, C, D, E, H & L
+Note: There are no 16 Bit Instructions like LD HL,DE. Instead use:
+```
+LD H,D
+LD L,E
+```
 #### Register Indirect Addressing (Teal)
 
 The general form is LD (RR),A or LD A,(RR) or LD (HL),N
