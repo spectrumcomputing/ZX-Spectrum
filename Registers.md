@@ -6,7 +6,7 @@ Extended Addressing (Pastel Pink)
 
 DOWN & ACROSS
 
-![Image of Load Instructions](https://github.com/spectrumcomputing/ZX-Machine-Code/blob/main/Registers.png)
+![Image of Load Instructions](https://github.com/spectrumcomputing/ZX-Machine-Code/blob/main/Registers.PNG)
 
 #### Immediate Addressing (Black)
 ```
