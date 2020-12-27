@@ -17,6 +17,7 @@ LD D,N
 LD E,N
 LD H,N
 LD L,N
+
 LD BC,NN
 LD DE,NN
 LD HL,NN
@@ -56,22 +57,23 @@ LD (DE),A
 LD (HL),N - Not in Graphic Above
 
 #### Extended Addressing (Pastel Pink)
-
-The general form is LD A,(NN) or LD (NN),A - Only A Regsister! 
-
+```
+LD A,(NN)
+LD (NN),A
+```
+```
+LD BC,(NN)
+LD DE,(NN)
+LD HL,(NN)
+```
+```
+LD (NN),BC
+LD (NN),DE
+LD (NN),HL
+```
 If you want to do LD (NN),B you could do:
 
 LD A,B
 LD (NN),A
-
-Or
-
-LD HL,(nn) or LD (nn),HL
-
-LD A,(NN)
-LD (NN),A
-
-LD BC or DE or HL ,(NN)
-LD (NN),BC or DE or HL
 
 #### Indexed Addressing
