@@ -81,8 +81,8 @@ LD (NN),DE
 LD (NN),HL
 ```
 If you want to do LD (NN),B you could do:
-
+```
 LD A,B
 LD (NN),A
-
+```
 #### Indexed Addressing
