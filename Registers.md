@@ -63,7 +63,7 @@ LD (BC),A
 LD (DE),A 
 ```
 ```
-LD (HL),N - Not in Graphic Above
+LD (HL),N
 ```
 #### Extended Addressing (Pastel Pink)
 ```
