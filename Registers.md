@@ -26,27 +26,33 @@ LD HL,NN
 ```
 LD R,R
 ```
-Works with registers A, B, C, D, E, H & L
+Works with registers A, B, C, D, E, H & L  
 Note: There are no 16 Bit Instructions like LD HL,DE. Instead use:
 ```
 LD H,D
 LD L,E
 ```
 #### Register Indirect Addressing (Teal)
-
-The general form is LD (RR),A or LD A,(RR) or LD (HL),N
-
+```
+LD (RR),A
+LD A,(RR)
+LD (HL),N
+```
 Example: LD A,(HL) - Load the A registers with the contents pointed at in the HL Register Pair.
-
-LD A, B, C, D, E, H, L, (HL) 
+```
+LD R, (HL) 
+Works with registers A, B, C, D, E, H & L  
 
 LD A, (BC)
 LD A, (DE)
+```
+```
+LD (HL),R
+Works with registers A, B, C, D, E, H & L  
 
-LD (HL), A, B, C, D, E, H, L 
 LD (BC),A 
 LD (DE),A 
-
+```
 LD (HL),N - Not in Graphic Above
 
 #### Extended Addressing (Pastel Pink)
