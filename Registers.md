@@ -34,28 +34,37 @@ LD H,D
 LD L,E
 ```
 #### Register Indirect Addressing (Teal)
-```
-LD (RR),A
-LD A,(RR)
-LD (HL),N
-```
-Example: LD A,(HL) - Load the A registers with the contents pointed at in the HL Register Pair.
-```
-LD R, (HL) 
-Works with registers A, B, C, D, E, H & L  
 
+
+```
+LD A, (HL) 
+LD B, (HL) 
+LD C, (HL) 
+LD D, (HL) 
+LD E, (HL) 
+LD H, (HL) 
+LD L, (HL) 
+```
+```
 LD A, (BC)
 LD A, (DE)
 ```
 ```
-LD (HL),R
-Works with registers A, B, C, D, E, H & L  
-
+LD (HL),A
+LD (HL),B
+LD (HL),C
+LD (HL),D
+LD (HL),E
+LD (HL),H
+LD (HL),L
+```
+```
 LD (BC),A 
 LD (DE),A 
 ```
+```
 LD (HL),N - Not in Graphic Above
-
+```
 #### Extended Addressing (Pastel Pink)
 ```
 LD A,(NN)
