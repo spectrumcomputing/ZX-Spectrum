@@ -1,3 +1,4 @@
+### Routine to quickly display a loading screen
 
 ```
 main: ld hl,7d00h   ;Store loading screen at 32,000 decmal
