@@ -1,8 +1,8 @@
 
 Immediate Addressing (Black)  
 Register Addressing  (Orange)  
-Register Indirect Addressing (Purple)  
-Extended Addressing (Turqoise)
+Register Indirect Addressing (Turqoise)  
+Extended Addressing (Purple)
 
 DOWN & ACROSS
 
@@ -33,7 +33,7 @@ Note: There are no 16 Bit Instructions like LD HL,DE. Instead use:
 LD H,D
 LD L,E
 ```
-#### Register Indirect Addressing (Purple)
+#### Register Indirect Addressing (Turqoise)
 
 
 ```
@@ -65,7 +65,7 @@ LD (DE),A
 ```
 LD (HL),N
 ```
-#### Extended Addressing (Turqoise)
+#### Extended Addressing (Purple)
 ```
 LD A,(NN)
 LD (NN),A
