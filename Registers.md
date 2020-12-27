@@ -23,7 +23,7 @@ LD DE,NN
 LD HL,NN
 ```
 
-#### Register Addressing  (Purple)
+#### Register Addressing  (Orange)
 ```
 LD R,R
 ```
@@ -33,7 +33,7 @@ Note: There are no 16 Bit Instructions like LD HL,DE. Instead use:
 LD H,D
 LD L,E
 ```
-#### Register Indirect Addressing (Turquoise)
+#### Register Indirect Addressing (Purple)
 
 
 ```
@@ -65,7 +65,7 @@ LD (DE),A
 ```
 LD (HL),N
 ```
-#### Extended Addressing (Pastel Pink)
+#### Extended Addressing (Turqoise)
 ```
 LD A,(NN)
 LD (NN),A
