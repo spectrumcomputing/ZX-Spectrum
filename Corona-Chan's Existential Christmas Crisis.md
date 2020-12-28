@@ -17,9 +17,9 @@ Some of these require values to be POKEd to nearby addresses before use. Take no
 #### Screen Memory Layout (Top line of each character sqaure)
 
 ```
-Block 1 16,384 18,431 4000 47FF
-Block 2 18,432 18,431 4800 4FFF
-Block 3 20,480 22,527 5000 57FF
+Block 1 16,384 - 18,431 - 4000 - 47FF
+Block 2 18,432 - 18,431 - 4800 - 4FFF
+Block 3 20,480 - 22,527 - 5000 - 57FF
 ```
 ```
  0. 16,384  
