@@ -14,7 +14,7 @@ USR 63930
 
 Some of these require values to be POKEd to nearby addresses before use. Take note of the listing.
 
-Screen Layout
+###### Screen Layout (Top line of each character sqaure)
 ```
  0. 16384  
  1. 16416  
@@ -24,7 +24,6 @@ Screen Layout
  5. 16544  
  6. 16576  
  7. 16608  
-  
  8. 18432  
  9. 18464  
 10. 18496  
@@ -33,7 +32,6 @@ Screen Layout
 13. 18592  
 14. 18624  
 15. 18656  
-  
 16. 20480  
 17. 20512  
 18. 20544  
