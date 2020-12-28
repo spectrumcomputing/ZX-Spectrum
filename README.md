@@ -1,5 +1,8 @@
 # ZX-Machine-Code
 
+![ZX Spectrum Keyboard](https://github.com/spectrumcomputing/ZX-Machine-Code/blob/main/ZX%20Keyboard.png)
+
+
 ### Tutorial Topics
 
 [1. Registers](https://github.com/spectrumcomputing/ZX-Machine-Code/blob/main/Registers.md)
