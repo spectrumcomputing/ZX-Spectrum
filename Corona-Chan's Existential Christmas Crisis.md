@@ -19,7 +19,7 @@ Some of these require values to be POKEd to nearby addresses before use. Take no
 |Block   |Start Address|End Address   |
 |--------|--------------|-------------|
 |Block 1 |16,384 (4000) |18,431 (47FF)|
-|Block 2 |18,432 (4800) |18,431 (4FFF)|
+|Block 2 |18,432 (4800) |20,479 (4FFF)|
 |Block 3 |20,480 (5000) |22,527 (57FF)|
 
 ```
