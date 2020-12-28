@@ -13,6 +13,53 @@ USR 63915
 USR 63930  
 
 Some of these require values to be POKEd to nearby addresses before use. Take note of the listing.
+
+```
+   10 POKE 23730,1: POKE 23731,193
+   20 DIM t$(68,42): LOAD "" DATA t$()
+   30 LOAD ""CODE 49410,15029
+   40 BORDER 7: PAPER 7: INK 0: BRIGHT 0: FLASH 0: INVERSE 0: OVER 0: CLS : LET pd=160
+   50 LET u=USR 63690
+   60 FOR n=1 TO 22: FOR p=1 TO pd: NEXT p: LET z$=CHR$ 22+CHR$ (n-1)+CHR$ 0+t$(n, TO 20): LET u=USR 63234: NEXT n
+   70 FOR p=1 TO 2*pd: NEXT p
+   80 FOR n=0 TO 21: PRINT AT n,0;"               ": NEXT n
+   90 FOR n=23 TO 44: FOR p=1 TO pd: NEXT p: LET z$=CHR$ 22+CHR$ (n-23)+CHR$ 0+t$(n, TO 20): LET u=USR 63234: NEXT n
+  100 FOR p=1 TO 3*pd: NEXT p
+  110 LET u=USR 63702
+  120 FOR p=1 TO 2*pd: NEXT p
+  130 FOR g=45 TO 55
+  140 LET u=USR 63714: LET z$=CHR$ 22+CHR$ 17+CHR$ 0+t$(g): LET u=USR 63234: NEXT g
+  150 LET u=USR 63714: PRINT AT 17,0;"                                "
+  160 FOR p=1 TO 3*pd: NEXT p
+  170 FOR n=1 TO 20
+  180 FOR p=1 TO 2*pd: NEXT p
+  190 LET u=USR 63879
+  200 LET x$="WAIT": FOR x=2 TO 5: POKE 63876,x: POKE 63877,CODE x$(x-1): LET u=USR 63859: FOR p=1 TO 40: NEXT p: NEXT x
+  210 LET u=USR 63900
+  220 LET u=USR 63930
+  230 LET u=USR 63714: LET z$=CHR$ 22+CHR$ 17+CHR$ 0+t$(56): LET u=USR 63234
+  240 LET u=USR 63714: LET z$=CHR$ 22+CHR$ 17+CHR$ 0+t$(57): LET u=USR 63234
+  250 IF n<>6 AND RND<.8 THEN GO TO 270
+  260 FOR g=58 TO 60: LET u=USR 63714: LET z$=CHR$ 22+CHR$ 17+CHR$ 0+t$(g): LET u=USR 63234: NEXT g
+  270 IF n<>20 THEN LET u=USR 63714: PRINT AT 17,0;"                                ": NEXT n
+  280 NEXT n
+  290 FOR g=61 TO 64: LET u=USR 63714: LET z$=CHR$ 22+CHR$ 17+CHR$ 0+t$(g): LET u=USR 63234: NEXT g
+  300 LET u=USR 63714: PRINT AT 17,0;"                                ": NEXT n
+  310 FOR p=1 TO 1600: NEXT p
+  320 LET u=USR 63879
+  330 LET x$="OPEN CHEST": FOR x=2 TO 11: POKE 63876,x: POKE 63877,CODE x$(x-1): LET u=USR 63859: FOR p=1 TO 40: NEXT p: NEXT x
+  340 LET u=USR 63915
+  350 LET l=USR 63930
+  360 FOR g=65 TO 67: LET u=USR 63714: LET z$=CHR$ 22+CHR$ 17+CHR$ 0+t$(g): LET u=USR 63234: NEXT g
+  370 LET u=USR 63714: PRINT AT 17,0;"                                ": NEXT n
+  380 FOR p=1 TO 1600: NEXT p
+  390 LET u=USR 63714: LET z$=CHR$ 22+CHR$ 17+CHR$ 0+t$(68): LET u=USR 63234
+  400 LET u=USR 63714: PRINT AT 17,0;"                                ": NEXT n
+  410 FOR p=1 TO 1600: NEXT p
+  999 NEW 
+```
+
+
 ```
 63690 ld      hl,56322
 63693 ld      de,16384
