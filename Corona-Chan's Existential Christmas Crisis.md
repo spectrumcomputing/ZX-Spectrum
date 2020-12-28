@@ -3,14 +3,14 @@ There are two screens in the Bytes: block at 6912 bytes each, which start at 494
 
 USR 63234 - this routine isn't one of mine so don't go thinking it is (it's the PRINT42 routine that Einar recently found the author of)
 My routines are rather shorter than that:
-USR 63690
-USR 63702
-USR 63714
-USR 63859
-USR 63879
-USR 63900
-USR 63915
-USR 63930
+USR 63690  
+USR 63702  
+USR 63714  
+USR 63859  
+USR 63879  
+USR 63900  
+USR 63915  
+USR 63930  
 
 Some of these require values to be POKEd to nearby addresses before use. Take note of the listing.
 ```
