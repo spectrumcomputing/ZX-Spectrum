@@ -14,7 +14,7 @@ USR 63930
 
 Some of these require values to be POKEd to nearby addresses before use. Take note of the listing.
 
-#### Screen Memory Layout (Top line of each character sqaure)
+#### Screen Memory Layout
 
 |Block   |Start Address|End Address   |
 |--------|--------------|-------------|
@@ -22,6 +22,7 @@ Some of these require values to be POKEd to nearby addresses before use. Take no
 |Block 2 |18,432 (4800) |20,479 (4FFF)|
 |Block 3 |20,480 (5000) |22,527 (57FF)|
 
+##### First line of each character square
 ```
  0. 16,384  
  1. 16,416  
