@@ -25,3 +25,5 @@ The available utilities are:
 `tape2wav`: convert a tape file to .wav audio format.  
 `tapeconv`: convert between .tzx and .tap files.  
 `tzxlist`: list the contents of a TZX, TAP, PZX or Warajevo TAP file.
+
+https://sourceforge.net/projects/fuse-emulator/files/fuse-utils/
