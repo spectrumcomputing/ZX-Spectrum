@@ -1,6 +1,6 @@
 # ZX-Spectrum Notes
 
-![ZX Spectrum Keyboard](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/ZX%20Keyboard.png)
+![ZX Spectrum Keyboard](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/Images/ZX%20Keyboard.png)
 
 
 ### Machine Code Tutorial Topics
