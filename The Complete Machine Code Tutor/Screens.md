@@ -1,4 +1,4 @@
-<div align="center"> ### The Complete Machine Code Tutor</div>
+### <div align="center">The Complete Machine Code Tutor</div>
 
                       by
                  MALCOLM EVANS
