@@ -1,8 +1,8 @@
 ### <div align="center">The Complete Machine Code Tutor</div>
 ### <div align="center">by</div>
-### <div align="center">MALCOLM EVANS</div>
+### <div align="center">Malcolm Evans</div>
 <br/><br/>
-### <div align="center">48K SPECTRUM</div>
+### <div align="center">48K Spectrum</div>
 
                 Copyright 1984
            New Generation Software Ltd.
