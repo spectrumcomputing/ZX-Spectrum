@@ -1,8 +1,4 @@
-                     THE
-                   COMPLETE
-                   MACHINE
-                     CODE
-                    TUTOR
+<div align="center"> ### The Complete Machine Code Tutor</div>
 
                       by
                  MALCOLM EVANS
