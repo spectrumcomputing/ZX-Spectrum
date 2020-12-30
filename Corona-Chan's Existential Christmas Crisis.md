@@ -158,7 +158,7 @@ Some of these require values to be POKEd to nearby addresses before use. Take no
 63744 add     hl,bc
 63745 ex      de,hl
 63746 pop     bc
-63747 djnz    63733
+63747 djnz    63733  
 
 63749 ld      hl,18464
 63752 ld      de,18432
@@ -177,7 +177,7 @@ Some of these require values to be POKEd to nearby addresses before use. Take no
 63779 add     hl,bc
 63780 ex      de,hl
 63781 pop     bc
-63782 djnz    63768
+63782 djnz    63768  
 
 63784 ld      b,8
 63786 ld      hl,20512
@@ -191,7 +191,7 @@ Some of these require values to be POKEd to nearby addresses before use. Take no
 63803 add     hl,bc
 63804 ex      de,hl
 63805 pop     bc
-63806 djnz    63792
+63806 djnz    63792  
 
 63808 ld      b,8
 63810 ld      hl,20512
@@ -206,7 +206,7 @@ Some of these require values to be POKEd to nearby addresses before use. Take no
 63829 add     hl,bc
 63830 ex      de,hl
 63831 pop     bc
-63832 djnz    63816
+63832 djnz    63816  
 
 63834 ld      hl,22560
 63837 ld      de,22528
