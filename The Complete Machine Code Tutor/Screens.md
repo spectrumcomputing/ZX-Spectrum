@@ -2,9 +2,6 @@
 ### <div align="center">by</div>
 ### <div align="center">MALCOLM EVANS</div>
 <br/><br/>
-<br/><br/>
-<br/><br/>
-
 ### <div align="center">48K SPECTRUM</div>
 
                 Copyright 1984
