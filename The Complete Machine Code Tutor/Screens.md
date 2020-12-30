@@ -1,9 +1,11 @@
 ### <div align="center">The Complete Machine Code Tutor</div>
+### <div align="center">by</div>
+### <div align="center">MALCOLM EVANS</div>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
-                      by
-                 MALCOLM EVANS
-
-                 48K SPECTRUM
+### <div align="center">48K SPECTRUM</div>
 
                 Copyright 1984
            New Generation Software Ltd.
