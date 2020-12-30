@@ -30,7 +30,7 @@ the load, and enable you to load another section
 The program and lessons are arranged on the cassette
 tapes as follows.
 
-SIDE 1 - Program/simulator :  Lessons 1  -  9
-SIDE 2 - Lessons 10 - 17   :  Lessons 18 - 25
-SIDE 3 - Program/simulator :  Lessons 18 - 25
-SIDE 4 - Lessons 26 - 35   :  Lessons 1  -  9
+SIDE 1 - Program/simulator :  Lessons 1  -  9  
+SIDE 2 - Lessons 10 - 17   :  Lessons 18 - 25  
+SIDE 3 - Program/simulator :  Lessons 18 - 25  
+SIDE 4 - Lessons 26 - 35   :  Lessons 1  -  9  
