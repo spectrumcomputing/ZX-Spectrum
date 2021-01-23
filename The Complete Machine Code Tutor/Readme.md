@@ -2,6 +2,8 @@
 
 ![Main Menu](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/MachineCodeTutor_Title.png)   
 
+![Cassette Inlay](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/CompleteMachineCodeTutorThe.jpg)
+
 [Introduction](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Introduction.md)   
 [Menu - Lessons 1-9](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Menu%201-9.md)   
 [Lesson 1 - Registers and Memory](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lesson%201%20-%20Registers%20and%20Memory.md)   
