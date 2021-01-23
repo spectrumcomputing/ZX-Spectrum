@@ -29,6 +29,11 @@ Follow the links below to view the screens for each of the lessons. Each page ha
 [Lesson 16 - Binary Coded Decimal Notation](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2016%20-%20Binary%20Coded%20Decimal%20Notation.md)   
 [Lesson 17 - Postitive and Negative Number Notation](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2017%20-%20Positive%20and%20Negative%20Number%20Notation.md)
 
+[Menu - Lessons 10-17](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lessons%2010-17.md)   
+
+[Menu - Lessons 18-15](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lessons%2018-25.md)   
+
+[Menu - Lessons 26-35](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lessons%2018-25.md)  
 
 ![Cassette Inlay](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/CompleteMachineCodeTutorThe.jpg)
 
