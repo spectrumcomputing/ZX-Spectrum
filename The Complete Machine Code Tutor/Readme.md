@@ -1,6 +1,6 @@
 ### The Complete Machine Code Tutor
 
-The [Complete Machine Code Tutor](https://spectrumcomputing.co.uk/entry/8031/ZX-Spectrum/The_Complete_Machine_Code_Tutor) was published by New Generation Software in 1984. Way back in 2018 Nomad from the Spectrum Computing Forums took images of the screens from every lesson.
+The [Complete Machine Code Tutor](https://spectrumcomputing.co.uk/entry/8031/ZX-Spectrum/The_Complete_Machine_Code_Tutor) was published by New Generation Software in 1984. In 2018 Nomad from the Spectrum Computing Forums took images of the screens from every lesson.
 
 Follow the links below to view the screens for each of the lessons.
 
