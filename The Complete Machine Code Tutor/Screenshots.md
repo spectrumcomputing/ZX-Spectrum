@@ -1,2 +1,2 @@
 
-![GitHub Logo](/Images/MachineCodeTutor_001.png)
+![Introduction](/Images/MachineCodeTutor_001.png)
