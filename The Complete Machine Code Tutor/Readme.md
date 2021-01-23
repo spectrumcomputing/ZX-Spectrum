@@ -19,4 +19,8 @@ Follow the links below to view the screens for each of the lessons.
 [Lesson 7 - Increment and Decrement Instructions](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%207%20-%20Increment%20and%20Decrement%20Instructions.md)   
 [Lesson 8 - The Zero Flag](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%208%20-%20The%20Zero%20Flag.md)   
 [Lesson 9 - Compare](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%209%20-%20Compare.md)   
+[Menu - Lessons 10-17](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lessons%2010-17.md)    
+[Lesson 10 - Jumps](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2010%20-%20Jumps.md)    
+[Lesson 11 - Relative Jumps](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2011%20-%20Relative%20Jumps.md)    
+[Lesson 12 - The Stack](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2012%20-%20The%20Stack.md)    
 
