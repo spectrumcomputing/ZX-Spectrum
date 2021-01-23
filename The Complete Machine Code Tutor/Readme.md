@@ -1,12 +1,12 @@
 ### The Complete Machine Code Tutor
 
-The [Complete Machine Code Tutor](https://spectrumcomputing.co.uk/entry/8031/ZX-Spectrum/The_Complete_Machine_Code_Tutor) was published by New Generation Software in 1984. In 2018 Nomad from the Spectrum Computing Forums took images of the screens from every lesson.
+The [Complete Machine Code Tutor](https://spectrumcomputing.co.uk/entry/8031/ZX-Spectrum/The_Complete_Machine_Code_Tutor) was published by New Generation Software in 1984. During 2018 Nomad from the Spectrum Computing Forums took images of the screens from every lesson. These screens are presented here.
 
 Follow the links below to view the screens for each of the lessons.
 
-![Main Menu](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Images/MachineCodeTutor_Title.png)   
+![Main Menu](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/MachineCodeTutor_Title.png)   
 
-![Cassette Inlay](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Images/CompleteMachineCodeTutorThe.jpg)
+![Cassette Inlay](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/CompleteMachineCodeTutorThe.jpg)
 
 [Introduction](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Introduction.md)   
 [Menu - Lessons 1-9](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Menu%201-9.md)   
