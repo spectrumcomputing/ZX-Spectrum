@@ -24,5 +24,10 @@ Follow the links below the two images to view the screens for each of the lesson
 [Menu - Lessons 10-17](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lessons%2010-17.md)    
 [Lesson 10 - Jumps](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2010%20-%20Jumps.md)    
 [Lesson 11 - Relative Jumps](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2011%20-%20Relative%20Jumps.md)    
-[Lesson 12 - The Stack](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2012%20-%20The%20Stack.md)    
+[Lesson 12 - The Stack](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2012%20-%20The%20Stack.md)   
+[Lesson 13 - Calls to Subroutines](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2013%20-%20Calls%20to%20Subroutines.md)   
+[Lesspm 14 - Binary Notation](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2014%20-%20Binary%20Notation.md)   
+[Lesson 15 - Hexadecimal Notation](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2015%20-%20Hexadecimal%20Notation.md)
+[Lesson 16 - Binary Coded Decimal Notation](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2016%20-%20Binary%20Coded%20Decimal%20Notation.md)   
+[Lesson 17 - Postitive and Negative Number Notation](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2017%20-%20Positive%20and%20Negative%20Number%20Notation.md)
 
