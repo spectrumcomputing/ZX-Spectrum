@@ -3,11 +3,6 @@
 ![ZX Spectrum Keyboard](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/Images/ZX%20Keyboard.png)
 
 
-### Machine Code Tutorial Topics
-
-[1. Registers](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/Registers.md)
-
-
 ### Assembling Code with Pasmo
 ```
 pasmo --tapbas First.asm First.tap
