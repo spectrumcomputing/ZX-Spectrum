@@ -1,11 +1,3 @@
-
-![Introduction](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/MachineCodeTutor_001.png)
-
-![Menu-Lessons-1-9](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/MachineCodeTutor_Menu_1.png)
-
-###### Lesson One
-![Lesson 1/1](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/MachineCodeTutor_Lesson1_001.png)
-
 ###### Lesson Two
 ![Lesson 2/1](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/MachineCodeTutor_Lesson2_001.png)
 ![Lesson 2/2](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/MachineCodeTutor_Lesson2_002.png)
