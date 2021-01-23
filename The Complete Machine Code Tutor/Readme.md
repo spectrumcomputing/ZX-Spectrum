@@ -2,11 +2,9 @@
 
 The [Complete Machine Code Tutor](https://spectrumcomputing.co.uk/entry/8031/ZX-Spectrum/The_Complete_Machine_Code_Tutor) was published by New Generation Software in 1984. During 2018 Nomad from the Spectrum Computing Forums took images of the screens from every lesson. These screens are presented here.
 
-Follow the links below the two images to view the screens for each of the lessons.
+Follow the links below to view the screens for each of the lessons. Each page has links back here and to the next lesson.
 
 ![Main Menu](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/MachineCodeTutor_Title.png)   
-
-![Cassette Inlay](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/CompleteMachineCodeTutorThe.jpg)
 
 [Introduction](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Introduction.md)   
 
@@ -30,4 +28,7 @@ Follow the links below the two images to view the screens for each of the lesson
 [Lesson 15 - Hexadecimal Notation](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2015%20-%20Hexadecimal%20Notation.md)   
 [Lesson 16 - Binary Coded Decimal Notation](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2016%20-%20Binary%20Coded%20Decimal%20Notation.md)   
 [Lesson 17 - Postitive and Negative Number Notation](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2017%20-%20Positive%20and%20Negative%20Number%20Notation.md)
+
+
+![Cassette Inlay](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/CompleteMachineCodeTutorThe.jpg)
 
