@@ -30,17 +30,17 @@ LD L,E
 
 
 ```
-LD A, (HL) 
-LD B, (HL) 
-LD C, (HL) 
-LD D, (HL) 
-LD E, (HL) 
-LD H, (HL) 
-LD L, (HL) 
+LD A,(HL) 
+LD B,(HL) 
+LD C,(HL) 
+LD D,(HL) 
+LD E,(HL) 
+LD H,(HL) 
+LD L,(HL) 
 ```
 ```
-LD A, (BC)
-LD A, (DE)
+LD A,(BC)
+LD A,(DE)
 ```
 ```
 LD (HL),A
