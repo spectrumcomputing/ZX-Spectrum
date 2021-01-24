@@ -1,0 +1,7 @@
+![Lesson 22/1](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/MachineCodeTutor_Lesson22_001.png)
+![Lesson 22/2](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/MachineCodeTutor_Lesson22_002.png)
+![Lesson 22/3](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/MachineCodeTutor_Lesson22_003.png)
+![Lesson 22/4](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/MachineCodeTutor_Lesson22_004.png)
+![Lesson 22/5](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/MachineCodeTutor_Lesson22_005.png)
+![Lesson 22/6](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/MachineCodeTutor_Lesson22_006.png)
+![Lesson 22/Example](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Images/MachineCodeTutor_Lesson22_Example.png)
