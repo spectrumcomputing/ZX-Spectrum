@@ -29,8 +29,15 @@ Follow the links below to view the screens for each of the lessons. Each page ha
 [Lesson 16 - Binary Coded Decimal Notation](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2016%20-%20Binary%20Coded%20Decimal%20Notation.md)   
 [Lesson 17 - Postitive and Negative Number Notation](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2017%20-%20Positive%20and%20Negative%20Number%20Notation.md)
 
-
 [Menu - Lessons 18-15](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Menu%2018-25.md)   
+[Lesson 18 - Lesson 18 - Parity](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2018%20-%20Parity.md)   
+[Lesson 19 - The Flag Register and AF Register Pair](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2019%20-%20The%20Flag%20Register%20and%20AF%20Register%20Pair.md)   
+[Lesson 20 - S and PV Flags in Instructions](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2020%20-%20S%20and%20PV%20Flags%20in%20Instructions.md)   
+[Lesson 21 - Bit Manipulation](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2021%20-%20Bit%20Manipulation.md)   
+[Lesson 22 - Logical Instructions](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2022%20-%20Logical%20Instructions.md)   
+[Lesson 23 - Shift Instructions](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2023%20-%20Shift%20Instructions.md)   
+[Lesson 24 - Rotate Instructions](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2024%20-%20Rotate%20Instructions.md)   
+[Lesson 25 - Decimal Rotate](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Lesson%2025%20-%20Decimal%20Rotate.md)  
 
 [Menu - Lessons 26-35](https://github.com/spectrumcomputing/ZX-Spectrum/blob/main/The%20Complete%20Machine%20Code%20Tutor/Lessons/Menu%2026-35.md)  
 
