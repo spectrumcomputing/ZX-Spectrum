@@ -205,7 +205,7 @@ End
 ```
 
 
-BLITZ
+**BLITZ**
 ```
 Mode(s):   Amiga/Blitz
 Directive: enter Blitz mode
